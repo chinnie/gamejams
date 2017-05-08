@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 4a27cac348fe00144b1f89659b2a502c
+timeCreated: 1472449499
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: corner001
+    100002: corner002
+    100004: corner003
+    100006: corner_master
+    100008: doorway_frame
+    100010: doorway_frame2
+    100012: doorway_master
+    100014: doorway_pillar_inner
+    100016: doorway_pillar_inner001
+    100018: doorway_pillar_outer
+    100020: floor
+    100022: wall001
+    100024: wall002
+    100026: wall004
+    100028: wall005
+    100030: wall007
+    100032: wall008
+    100034: wall010
+    100036: wall_master
+    100038: //RootNode
+    100040: window001
+    100042: window002
+    100044: window_master
+    400000: corner001
+    400002: corner002
+    400004: corner003
+    400006: corner_master
+    400008: doorway_frame
+    400010: doorway_frame2
+    400012: doorway_master
+    400014: doorway_pillar_inner
+    400016: doorway_pillar_inner001
+    400018: doorway_pillar_outer
+    400020: floor
+    400022: wall001
+    400024: wall002
+    400026: wall004
+    400028: wall005
+    400030: wall007
+    400032: wall008
+    400034: wall010
+    400036: wall_master
+    400038: //RootNode
+    400040: window001
+    400042: window002
+    400044: window_master
+    2300000: corner001
+    2300002: corner002
+    2300004: corner003
+    2300006: corner_master
+    2300008: doorway_frame
+    2300010: doorway_frame2
+    2300012: doorway_master
+    2300014: doorway_pillar_inner
+    2300016: doorway_pillar_inner001
+    2300018: doorway_pillar_outer
+    2300020: floor
+    2300022: wall001
+    2300024: wall002
+    2300026: wall004
+    2300028: wall005
+    2300030: wall007
+    2300032: wall008
+    2300034: wall010
+    2300036: wall_master
+    2300038: window001
+    2300040: window002
+    2300042: window_master
+    2300044: //RootNode
+    3300000: corner001
+    3300002: corner002
+    3300004: corner003
+    3300006: corner_master
+    3300008: doorway_frame
+    3300010: doorway_frame2
+    3300012: doorway_master
+    3300014: doorway_pillar_inner
+    3300016: doorway_pillar_inner001
+    3300018: doorway_pillar_outer
+    3300020: floor
+    3300022: wall001
+    3300024: wall002
+    3300026: wall004
+    3300028: wall005
+    3300030: wall007
+    3300032: wall008
+    3300034: wall010
+    3300036: wall_master
+    3300038: window001
+    3300040: window002
+    3300042: window_master
+    3300044: //RootNode
+    4300000: floor
+    4300002: corner_master
+    4300004: corner001
+    4300006: corner002
+    4300008: corner003
+    4300010: doorway_master
+    4300012: wall_master
+    4300014: wall001
+    4300016: wall002
+    4300018: wall004
+    4300020: wall005
+    4300022: wall007
+    4300024: wall008
+    4300026: wall010
+    4300028: window_master
+    4300030: window001
+    4300032: window002
+    4300034: doorway_frame
+    4300036: doorway_frame2
+    4300038: doorway_pillar_inner
+    4300040: doorway_pillar_inner001
+    4300042: doorway_pillar_outer
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
