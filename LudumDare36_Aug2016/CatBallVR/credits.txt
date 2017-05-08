@@ -1,0 +1,22 @@
+This VR demo is created by chinnie (chinnie@popoko.com)
+I did most of the 3D modeling and some scripting.
+
+The rest are created by/taken from these people/group:
+----------------------------
+- Cute Kitten, by leshiy3d, https://www.assetstore.unity3d.com/en/#!/content/33121
+- Universe Cubemap - NASA, https://svs.gsfc.nasa.gov/3572
+
+BGM Music:
+- Cafe Romance by Niki Wonoto, https://soundcloud.com/niki-wonoto
+
+Sound Effects:
+- Kitten purr: - Taira Komori, http://taira-komori.jpn.org/freesounden.htm
+- Ball jingle: - Taira Komori, http://taira-komori.jpn.org/freesounden.htm
+- Lever: med dark 001 by 3maze (High Impact collection), http://www.sonniss.com/
+- Door: rock tumble down debris by Alexander Kopeikin (Rocks collection), http://www.sonniss.com/
+
+Tools:
+- Unity
+- Steam VR Plugin - https://www.assetstore.unity3d.com/en/#!/content/32647
+- Steam VR Unity Toolkit - https://www.assetstore.unity3d.com/en/#!/content/64131
+- NewtonVR, Tomorrow Today Labs, https://github.com/TomorrowTodayLabs/NewtonVR
